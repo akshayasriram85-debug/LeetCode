@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
