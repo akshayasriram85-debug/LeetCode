@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0260-single-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
