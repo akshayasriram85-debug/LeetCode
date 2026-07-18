@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0260-single-number-iii) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
