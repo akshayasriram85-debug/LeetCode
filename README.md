@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
