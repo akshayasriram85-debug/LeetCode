@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [0260-single-number-iii](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0260-single-number-iii) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
