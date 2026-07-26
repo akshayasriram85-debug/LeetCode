@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
