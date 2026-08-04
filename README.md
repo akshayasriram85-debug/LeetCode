@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3731-find-missing-elements](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3731-find-missing-elements](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
