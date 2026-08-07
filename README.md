@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3731-find-missing-elements](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3731-find-missing-elements) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Enumeration
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3731-find-missing-elements) |
@@ -165,4 +169,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
