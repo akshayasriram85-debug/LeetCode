@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -176,9 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
