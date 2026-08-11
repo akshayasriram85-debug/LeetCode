@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Counting
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
