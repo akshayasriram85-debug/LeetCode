@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
 ## Math
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0061-rotate-list) |
