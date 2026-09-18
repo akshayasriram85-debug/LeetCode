@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0228-summary-ranges) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
