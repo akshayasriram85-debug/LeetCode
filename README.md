@@ -170,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
@@ -261,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Geometry
 |  |
 | ------- |
