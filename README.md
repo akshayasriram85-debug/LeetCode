@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -286,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
