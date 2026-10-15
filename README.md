@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
