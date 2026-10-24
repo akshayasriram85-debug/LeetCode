@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0796-rotate-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
