@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -301,11 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
