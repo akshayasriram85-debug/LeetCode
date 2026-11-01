@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
