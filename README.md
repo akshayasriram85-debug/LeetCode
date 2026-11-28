@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0724-find-pivot-index](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [0997-find-the-town-judge](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akshayasriram85-debug/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/akshayasriram85-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/akshayasriram85-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
